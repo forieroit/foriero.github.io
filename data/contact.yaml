@@ -1,25 +1,25 @@
 email: 'info@foriero.it'
 phone: 'XXXX XXX XXX'
-businessName: 'Foriero Srl'
+businessName: 'Foriero Srl - P.IVA: IT123456789'
 address: |
   123 Some Street
   City, State 12345
 hours:
   - day: Monday
-    open: 9:00am
-    close: 18:00pm
+    open: 09:00
+    close: 18:00
   - day: Tuesday
-    open: 9:00am
-    close: 18:00pm
+    open: 09:00
+    close: 18:00
   - day: Wednesday
-    open: 9:00am
-    close: 18:00pm
+    open: 09:00
+    close: 18:00
   - day: Thursday
-    open: 9:00am
-    close: 18:00pm
+    open: 09:00
+    close: 18:00
   - day: Friday
-    open: 9:00am
-    close: 18:00pm
+    open: 09:00
+    close: 18:00
   - day: Saturday
     open: Closed
     close:
