@@ -1,25 +1,25 @@
-email: 'example@example.com'
+email: 'info@foriero.it'
 phone: 'XXXX XXX XXX'
-businessName: 'Hugo Serif'
+businessName: 'Foriero Srl'
 address: |
   123 Some Street
   City, State 12345
 hours:
   - day: Monday
-    open: 8:30am
-    close: 5:00pm
+    open: 9:00am
+    close: 18:00pm
   - day: Tuesday
-    open: 8:30am
-    close: 5:00pm
+    open: 9:00am
+    close: 18:00pm
   - day: Wednesday
-    open: 8:30am
-    close: 5:00pm
+    open: 9:00am
+    close: 18:00pm
   - day: Thursday
-    open: 8:30am
-    close: 5:00pm
+    open: 9:00am
+    close: 18:00pm
   - day: Friday
-    open: 8:30am
-    close: 5:00pm
+    open: 9:00am
+    close: 18:00pm
   - day: Saturday
     open: Closed
     close:
