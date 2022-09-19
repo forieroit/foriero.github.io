@@ -1,4 +1,4 @@
-baseURL = 'https://forieroit.github.io/foriero.github.io/'
+baseURL = 'https://www.foriero.it/'
 languageCode = 'en-us'
 title = 'Foriero Srl'
 theme = "hugo-hero-theme"
