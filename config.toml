@@ -1,7 +1,6 @@
 baseURL = 'https://forieroit.github.io'
 languageCode = 'it-it'
 title = 'Foriero Srl'
-themesDir = "../.."
 theme = "hugo-hero-theme"
 
 [module]
