@@ -1,7 +1,7 @@
 baseURL = 'https://www.foriero.it/'
 languageCode = 'en-us'
 title = 'Foriero Srl'
-theme = "hugo-hero-theme"
+theme = "custom-hugo-hero-theme"
 
 [module]
   [module.hugoVersion]
