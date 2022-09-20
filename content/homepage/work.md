@@ -6,4 +6,4 @@ button: 'Our Work'
 buttonLink: 'work'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+The best part of our job is knowing we help our clients succeed. When we help our clients reach their goal or help their business pass a new milestone, it's the most satisfying moment because your success is the reason we do what we do.
