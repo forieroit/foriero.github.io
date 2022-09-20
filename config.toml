@@ -16,8 +16,8 @@ theme = "custom-hugo-hero-theme"
     mobile_height = "36px"
     mobile_width = "36px"
     desktop = "images/logo.svg"
-    desktop_height = "30px"
-    desktop_width = "50px"
+    desktop_height = "48px"
+    desktop_width = "300px"
     alt = "Foriero"
 
   [params.homepage_meta_tags]
