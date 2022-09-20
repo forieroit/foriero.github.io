@@ -1,7 +1,6 @@
 ---
 title: 'Home'
-date: 2018-02-12T15:37:57+07:00
-heroHeading: 'Digital harbingers'
-heroSubHeading: 'We forge digital experiences'
+heroHeading: 'Digital Harbingers'
+heroSubHeading: 'We provide extraordinary experiences in the world of digital revolution'
 heroBackground: 'images/jason-blackeye-1191801-unsplash.jpg'
 ---
