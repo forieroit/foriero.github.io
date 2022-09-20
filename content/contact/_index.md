@@ -1,6 +1,5 @@
 ---
-title: 'Contact'
-date: 2018-02-22T17:01:34+07:00
+title: 'Let's talk!'
 ---
 
-We offer a free consultation for all new clients.
+Need something? Our team is here to help! Feel free to contact us and we will be sure to get back to you as soon as possible.
