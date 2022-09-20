@@ -1,7 +1,7 @@
 email: 'info@foriero.it'
-phone: null
+phone: ''
 businessName: 'Foriero Srl'
-address: null
+address: ''
 hours:
   - day: Monday
     open: 09:00
