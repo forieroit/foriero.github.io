@@ -1,7 +1,9 @@
 email: 'info@foriero.it'
-phone: ''
+#phone: 'XXXX XXX XXX'
 businessName: 'Foriero Srl'
-address: ''
+#address: |
+#  123 Some Street
+#  City, State 12345
 hours:
   - day: Monday
     open: 09:00
