@@ -1,28 +1,28 @@
 email: 'info@foriero.it'
 #phone: 'XXXX XXX XXX'
 businessName: 'Foriero Srl'
-#address: |
-#  123 Some Street
-#  City, State 12345
+address: |
+  123 Some Street
+  City, State 12345
 hours:
-  - day: Monday
+  - day: Monday / Friday
     open: 09:00
     close: 18:00
-  - day: Tuesday
-    open: 09:00
-    close: 18:00
-  - day: Wednesday
-    open: 09:00
-    close: 18:00
-  - day: Thursday
-    open: 09:00
-    close: 18:00
-  - day: Friday
-    open: 09:00
-    close: 18:00
-  - day: Saturday
+#  - day: Tuesday
+#    open: 09:00
+#    close: 18:00
+#  - day: Wednesday
+#    open: 09:00
+#    close: 18:00
+#  - day: Thursday
+#    open: 09:00
+#    close: 18:00
+#  - day: Friday
+#    open: 09:00
+#    close: 18:00
+  - day: Saturday & Sunday
     open: Closed
     close:
-  - day: Sunday
-    open: Closed
-    close:
+#  - day: Sunday
+#    open: Closed
+#    close:

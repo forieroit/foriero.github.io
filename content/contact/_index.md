@@ -1,5 +1,5 @@
 ---
-title: "Let's talk!"
+title: "Contact"
 ---
 
 Need something? Our team is here to help!\

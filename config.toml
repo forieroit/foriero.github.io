@@ -1,7 +1,7 @@
 baseURL = 'https://www.foriero.it/'
 languageCode = 'en-us'
-title = 'Foriero Srl'
-theme = "custom-hugo-hero-theme"
+title = 'Foriero'
+theme = "hugo-hero-theme"
 
 [module]
   [module.hugoVersion]
@@ -37,10 +37,10 @@ theme = "custom-hugo-hero-theme"
 	url = "/services/"
     weight = 1
 
-[[menu.main]]
-    name = "Work"
-    url = "/work/"
-    weight = 2
+#[[menu.main]]
+#    name = "Work"
+#    url = "/work/"
+#    weight = 2
 
 [[menu.main]]
     name = "About"
