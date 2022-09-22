@@ -32,6 +32,11 @@ theme = "hugo-hero-theme"
     # meta_twitter_site = "@zerostaticio"
     # meta_twitter_creator = "@zerostaticio"
 
+[sitemap]
+  changefreq = 'monthly'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
 [[menu.main]]
 	name = "Services"
 	url = "/services/"
