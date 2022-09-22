@@ -21,12 +21,12 @@ theme = "hugo-hero-theme"
     alt = "Foriero"
 
   [params.homepage_meta_tags]
-    meta_description = "Foriero provide innovative and outstanding digital experiences in an ever-changing world! Learn more here."
+    meta_description = "Foriero is a creative digital agency that puts your business first. Learn more here."
     meta_og_title = "Foriero Srl"
     meta_og_type = "website"
-    meta_og_url = "https://www.foriero.it/"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
-    meta_og_description = "Foriero provide innovative and outstanding digital experiences in an ever-changing world! Learn more here."
+    meta_og_url = "https://foriero.it/"
+    meta_og_image = "https://foriero.it/images/meta_og_image.png"
+    meta_og_description = "Foriero is a creative digital agency that puts your business first. Learn more here."
     ## Not used
 	# meta_twitter_card = "summary"
     # meta_twitter_site = "@zerostaticio"
