@@ -1,7 +1,7 @@
 ---
 title: 'Integrity & Performance'
 weight: 2
-background: 'https://source.unsplash.com/_v-EHHKKW3w/1600x700'
+background: 'images/leonhard-niederwimmer-D62gSEgS_yY-unsplash.jpg'
 align: left
 ---
 

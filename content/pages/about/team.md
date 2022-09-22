@@ -1,7 +1,7 @@
 ---
 title: 'Team of experts'
 weight: 1
-background: 'https://source.unsplash.com/zglUlG8k47I/1600x500'
+background: 'images/luca-fortunato-Bz5Ybu0cgS4-unsplash.jpg'
 align: right
 ---
 

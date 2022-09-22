@@ -6,7 +6,7 @@ draft: false
 weight: 2
 heroHeading: 'Cloud'
 heroSubHeading: 'Cloud computing can help businesses save time and money by boosting productivity'
-heroBackground: 'services/service1.jpg'
+heroBackground: 'services/server_room_technology.jpg'
 ---
 
 We are experts on cloud computing so you can quickly find an option that meets your expectations and business technology requirements.
