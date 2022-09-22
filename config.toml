@@ -2,6 +2,7 @@ baseURL = 'https://www.foriero.it/'
 languageCode = 'en-us'
 title = 'Foriero'
 theme = "hugo-hero-theme"
+enableRobotsTXT = true
 
 [module]
   [module.hugoVersion]
