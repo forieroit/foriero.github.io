@@ -10,7 +10,7 @@ enableRobotsTXT = true
     min = "0.92.0"
     
 [params]
-  google_analytics_id="G-G8ECYVYF2K"
+  google_analytics_id="G-HTBTCGZP72"
 
   [params.logo]
     mobile = "images/logo-mobile.svg"
