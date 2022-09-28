@@ -26,7 +26,7 @@ enableRobotsTXT = true
     meta_og_title = "Foriero Srl"
     meta_og_type = "website"
     meta_og_url = "https://foriero.it/"
-    meta_og_image = "https://foriero.it/images/meta_og_image.png"
+    meta_og_image = "images/meta_og_image.png"
     meta_og_description = "Foriero is a creative digital agency that puts your business first. Learn more here."
     ## Not used
 	# meta_twitter_card = "summary"
